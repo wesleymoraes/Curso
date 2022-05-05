@@ -1,0 +1,22 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    justify-content: center;
+    width: 900px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+.tittle {
+    font-size: 14px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+
+.Content {
+    font-weight: normal;
+    text-align: center;
+    font-size: 10px;
+}
