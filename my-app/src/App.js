@@ -3,9 +3,7 @@ import Footer from './components/Footer';
 import Formulario from './components/Formulario';
 import Header from './components/header';
 import Home from './components/home';
-import Evento from './components/Formulario/loading'
-
-
+import SimpleSlider from './components/slick'
 
 
 class App extends Component{
@@ -16,7 +14,7 @@ class App extends Component{
                 <Home/>
                 <Formulario/>
                 <Footer/>
-                <Evento/>
+      
 
             </div>
         )

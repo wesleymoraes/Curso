@@ -11,6 +11,7 @@ class Header extends Component {
                <div className='Logo'>
                <img src={require('../../assets/logo-tiki.png')}/>
                </div>
+        
         );
     }
 
