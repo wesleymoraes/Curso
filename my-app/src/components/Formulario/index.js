@@ -11,6 +11,9 @@ class Formulario extends Component{
                 <div className='Tittle2'>
                     <img src={require('../../assets/tittle2.png')} />
                 </div>
+                <div className='iconYellow'>
+                    <img src={require('../../assets/icon-yellow.png')} />
+                </div>
 
                 <div className='Form'>
                 <form className='Formulario'>
