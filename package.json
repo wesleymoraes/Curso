@@ -1,8 +1,12 @@
 {
   "devDependencies": {
+    "react-alice-carousel": "^2.6.0",
     "react-native-svg-transformer": "^1.0.0"
   },
   "dependencies": {
-    "react-native-svg": "^12.3.0"
+    "react-carousel-minimal": "^1.4.1",
+    "react-image-gallery": "^1.2.7",
+    "react-native-svg": "^12.3.0",
+    "react-responsive-carousel": "^3.2.23"
   }
 }

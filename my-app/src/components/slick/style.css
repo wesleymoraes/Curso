@@ -1,0 +1,25 @@
+
+.slick-slide img{
+    border-radius: 40px;
+    display: flex;
+    margin: auto;
+    max-width: 650px;
+    justify-content: center;
+}
+
+
+button.slick-arrow.slick-prev{
+  
+   margin-top: 300px;
+    width: 80px;
+}
+
+button.slick-arrow.slick-next{
+    margin-top: 300px;
+    width: 80px;
+}
+.slick-slider{
+    width: 650px;
+  margin: auto;
+
+}
